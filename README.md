@@ -12,6 +12,7 @@ Recipes is a simple HTML website created to refresh my memory on best practices 
 
 The project is organized as follows:
 
+```
 Recipes/
 ├── index.html # Main homepage listing all the recipes.
 ├── images/ # Folder containing images for the recipes.
@@ -22,6 +23,7 @@ Recipes/
 │ ├── chocolate-lava-recipe.html
 │ ├── kentucky-chicken-recipe.html
 │ ├── margherita-pizza-recipe.html
+```
 
 ## Usage
 
