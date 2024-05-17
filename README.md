@@ -13,12 +13,12 @@ Recipes is a simple HTML website created to refresh my memory on best practices 
 The project is organized as follows:
 
 Recipes/
-├── index.html
-├── images/
+├── index.html # Main homepage listing all the recipes.
+├── images/ # Folder containing images for the recipes.
 │ ├── chocolate-lava-cakes.jpg
 │ ├── classic-margherita-pizza.jpg
 │ ├── kentucky-style.jpg
-├── pages/
+├── pages/ # Folder containing individual recipe pages.
 │ ├── chocolate-lava-recipe.html
 │ ├── kentucky-chicken-recipe.html
 │ ├── margherita-pizza-recipe.html
