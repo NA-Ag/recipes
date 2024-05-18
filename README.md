@@ -1,6 +1,6 @@
 # recipes
 
-Recipes is a simple HTML website created to refresh my memory on best practices and general syntax. The project includes several HTML files, each containing different recipes with accompanying pictures.
+Recipes is a simple HTML website created to refresh my memory on best practices and general syntax. The project includes several HTML files, each containing different recipes with accompanying pictures. You can visit the site [here](https://na-ag.github.io/recipes/index.html).
 
 ## Features
 
@@ -19,6 +19,9 @@ Recipes/
 │ ├── chocolate-lava-cakes.jpg
 │ ├── classic-margherita-pizza.jpg
 │ ├── kentucky-style.jpg
+│   ├── screenshots/
+│   │   ├── screenshot1.png
+│   │   ├── screenshot2.png
 ├── pages/ # Folder containing individual recipe pages.
 │ ├── chocolate-lava-recipe.html
 │ ├── kentucky-chicken-recipe.html
@@ -27,7 +30,12 @@ Recipes/
 
 ## Usage
 
-To view the recipes, simply open `index.html` in your web browser. From the index page, you can navigate to the individual recipe pages.
+To view the recipes, simply open `index.html` in your web browser. From the index page, you can navigate to the individual recipe pages. Or click the link found under # recipes.
+
+## Screenshots
+
+![Screenshot 1](./images/screenshots/Screenshot1.png)
+![Screenshot 2](./images/screenshots/Screenshot2.png)
 
 ## Goals
 
