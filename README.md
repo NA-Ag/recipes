@@ -15,6 +15,11 @@ The project is organized as follows:
 ```
 Recipes/
 ├── index.html # Main homepage listing all the recipes.
+├── css/ # Folder containing individual css files.
+│   ├── main.css
+│   ├── chocolate-lava.css
+│   ├── kentucky.css
+│   ├── margherita.css
 ├── images/ # Folder containing images for the recipes.
 │ ├── chocolate-lava-cakes.jpg
 │ ├── classic-margherita-pizza.jpg
