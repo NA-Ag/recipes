@@ -1,0 +1,27 @@
+h2 {
+  font-family: cursive, sans-serif;
+}
+
+ul {
+  list-style-type: disc;
+  font-size: 20px;
+}
+
+ol {
+  background-color: rgba(241, 234, 125, 0.76);
+  font-size: 20px;
+}
+
+a {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+  background-color: rgb(52, 235, 52);
+  text-decoration: none;
+}
+
+a:hover {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+  background-color: rgb(177, 230, 177);
+  text-decoration: none;
+}
